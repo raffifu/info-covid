@@ -1,6 +1,8 @@
 # info-covid
 website for visualize data coronavirus from API. build with Materialize and webpack
 
+<img src="./view-mobile.jpg" width="20%">.
+
 ## How to run
 1. Clone this repo
 2. install npm package for this project `npm install`
