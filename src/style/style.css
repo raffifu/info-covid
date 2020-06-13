@@ -1,0 +1,13 @@
+
+main{
+	margin-top: -130px !important;
+}
+
+.author{
+	text-decoration: none;
+	font-style: italic;
+	color: white;
+}
+.author:hover{
+	font-size: 1.2em;
+}
